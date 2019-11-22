@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Artificial Intelligence: A Modern Approach"
+date:   2019-11-21 10:00:00 +0100
+categories: ai
+tags: [textbook, ai, planning]
+---
+
+Textbook on artificial intelligence.
